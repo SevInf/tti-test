@@ -1,0 +1,8 @@
+{
+  "name": "tti-test",
+  "version": "1.0.0",
+  "license": "UNLICENSE",
+  "scripts": {
+    "start": "./start.js"
+  }
+}
